@@ -12,4 +12,4 @@ router.use((req, res) => {
 });
 
 // exporting router
-module.export = router;
+module.exports = router;
